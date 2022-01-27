@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hey 👋🏽, I'm Themas Febrianto
 
-<!--
-**Reallywanttolearn/Reallywanttolearn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<br />
 
-Here are some ideas to get you started:
+Hi, I'm Themas, I teach Frontend Web Development 🚀 from Indonesia, currently, I'm a teacher at vocational high school Yadika Soreang, Freelancer (You can reach me via email :D ) 👨🏽‍💻, Beside's programming, I enjoy gaming :joystick:, movie :film_projector: and spanding time with my little family
+  
+**Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏽‍💻 I’m currently working @ SMK Yadika Soreang
+- 🌱 I’m currently learning React js and node js ; 
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ ocasionally tinkering IOT and Automation (arduino, esp8266).
+- :fire: full time dad!
+- 📫 How to reach me: themasfebrianto13@gmail.com;
+- 📝[Resume]
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+
+
+![themas febrianto's github stats](https://github-readme-stats.vercel.app/api?username=Reallywanttolearn&show_icons=true&hide_border=true)
