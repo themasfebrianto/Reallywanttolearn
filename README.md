@@ -29,7 +29,7 @@ Hi, I'm Themas, I'm a teacher at Yadika Soreang Vocational High School,🚀 from
 
 
 <p align="center">
-  <img align="center" alt="Themas stat's" src="https://github-readme-stats.vercel.app/api?username=Reallywanttolearn&show_icons=true&theme=react&hide_border=true" width="45%"/>
+  <img align="center" alt="Themas stat's" src="https://github-readme-stats.vercel.app/api?username=Reallywanttolearn&show_icons=true&theme=react&hide_border=true" width="50%"/>
 </p>
 
 <a href="https://www.linkedin.com/in/themas-febrianto-6169401a9/">
