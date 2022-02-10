@@ -45,6 +45,8 @@ Hi, I'm Themas, I'm a teacher at Yadika Soreang Vocational High School,🚀 from
 <a href="https://www.linkedin.com/in/themas-febrianto-6169401a9/">
   <img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+</br>
+</br>
 
 ![ASD](https://komarev.com/ghpvc/?username=Reallywanttolearn&color=blue&style=flat-square)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
