@@ -18,7 +18,7 @@ Hi, I'm Themas, I'm a teacher at Yadika Soreang Vocational High School,🚀 from
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="Shows your streak from git.io/streak-stats" alt="Themas streak" src="https://github-readme-streak-stats.herokuapp.com?user=Reallywanttolearn&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+    <img title="Shows your streak from git.io/streak-stats" alt="Themas streak" src="https://github-readme-streak-stats.herokuapp.com?user=Reallywanttolearn&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="50%"/>
   </a>
 </p>
 
