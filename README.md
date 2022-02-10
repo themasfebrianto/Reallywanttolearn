@@ -40,5 +40,6 @@ Hi, I'm Themas, I'm a teacher at Yadika Soreang Vocational High School,🚀 from
 
 
 
-
+<div align="center">
 ![themas febrianto's github stats](https://github-readme-stats.vercel.app/api?username=Reallywanttolearn&show_icons=true&hide_border=true)
+</div>
