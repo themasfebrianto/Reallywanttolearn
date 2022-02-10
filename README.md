@@ -9,7 +9,7 @@ Hi, I'm Themas, I'm a teacher at Yadika Soreang Vocational High School,🚀 from
 
 - 👨🏽‍💻 I’m currently working @ SMK Yadika Soreang
 - 🌱 I’m currently learning React js and node js ; 
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 🤔 I’m looking for help with Data Structures and Algorithms;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ ocasionally tinkering IOT and Automation (arduino, esp8266).
 - :fire: full time dad!
