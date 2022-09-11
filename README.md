@@ -14,7 +14,6 @@ Hi, I'm Themas, I'm a teacher at Yadika Soreang Vocational High School,🚀 from
 - ⚡️ ocasionally tinkering IOT and Automation (arduino, esp8266).
 - :fire: full time dad!
 - 📫 How to reach me: themasfebrianto13@gmail.com;
-- 📝[Resume](https://github.com/Reallywanttolearn/Resume/blob/main/Resume%20Themas.png)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
